@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/igdb",
+  "title": "Igdb",
+  "description": "IGDB — the Internet Game Database (Twitch/Amazon), the reference catalogue",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/igdb",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-igdb",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/igdb/mcp"
+    }
+  ]
+}
