@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-igdb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "IGDB — the Internet Game Database (Twitch/Amazon), the reference catalogue",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6b9d3e37874a87bbbe09e4144da893ae5aafbd13272ff31c553f0ed701f7472d",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-348c5a40e9ee5be09390947b0ee7f99d07d7864f19408df3b8535839eb9337cb",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
