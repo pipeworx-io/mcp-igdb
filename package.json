@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-igdb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "IGDB — the Internet Game Database (Twitch/Amazon), the reference catalogue",
   "type": "module",
   "main": "src/index.ts",
