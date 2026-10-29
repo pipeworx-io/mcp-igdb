@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/igdb",
   "title": "Igdb",
   "description": "IGDB — the Internet Game Database (Twitch/Amazon), the reference catalogue for video games.",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/igdb",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-igdb",
