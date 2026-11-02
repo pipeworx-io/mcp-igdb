@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-igdb",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "IGDB — the Internet Game Database (Twitch/Amazon), the reference catalogue for video games.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "igdb",
     "gatewaySlug": "igdb",
-    "sourceHash": "v1-ce5e456907e7caa6457a9156aa544bb684592c0358c76852d2a5a2d122a5dbe6",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-84223d71e2df1cc7d5b1e3c296829a2bd7f58d002c56bb9601864d77ba96100b",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
